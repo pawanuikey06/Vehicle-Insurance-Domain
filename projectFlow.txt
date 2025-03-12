@@ -144,6 +144,3 @@
 
 
 
-password =f3WL0WKiFaKi3vJH
-
-mongodb+srv://pawanuikey690:<db_password>@cluster0.ojgol.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
