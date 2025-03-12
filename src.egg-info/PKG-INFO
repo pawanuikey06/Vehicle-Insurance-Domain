@@ -1,0 +1,8 @@
+Metadata-Version: 2.2
+Name: src
+Version: 0.0.1
+Summary: An MLOps project for productionizing models
+Author: Pawan Kumar Uikey
+Author-email: Pawan Kumar Uikey <pawanuikey690@gmail.com>
+License-File: LICENSE
+Dynamic: author
